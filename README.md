@@ -30,8 +30,8 @@ In my free time, I enjoy diving into **machine learning** and **electronics**, e
 **Projects I'm proud of:**
 - **[Yala Agro-industry](https://yalamilk.com/)**:  A comprehensive platform showcasing milk processing and agro-industry solutions.
 - **[Dagforge Innovations](https://dagforgeinnovations.com)**: An innovative platform for e-learning solutions.
-- **[Check Trading PLC](https://checktradingplc.com)**: A stock management system I built from the ground up to streamline operations.
 - **[KFAM Trading](https://kfamtrading.com)**: A system built for managing large inventories with ease and flexibility.
+- **[Check Trading PLC](https://checktradingplc.com)**: A stock management system I built from the ground up to streamline operations.
 
 Feel free to check out my repos and connect with me!
 
