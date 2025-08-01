@@ -28,6 +28,7 @@ I'm Yafet Philipos, a Full Stack Developer specializing in building and maintain
 In my free time, I enjoy diving into **machine learning** and **electronics**, especially using **Raspberry Pi** and **Arduino** to work on innovative projects. Join me on my journey as I continue to build, learn, and share my passion for technology!
 
 **Projects I'm proud of:**
+- **[Yala Agro-industry](https://yalamilk.com/)**:  A comprehensive platform showcasing milk processing and agro-industry solutions.
 - **[Dagforge Innovations](https://dagforgeinnovations.com)**: An innovative platform for e-learning solutions.
 - **[Check Trading PLC](https://checktradingplc.com)**: A stock management system I built from the ground up to streamline operations.
 - **[KFAM Trading](https://kfamtrading.com)**: A system built for managing large inventories with ease and flexibility.
